@@ -1,7 +1,8 @@
 # NAME: PT
 
 payload:
-  - DOMAIN-SUFFIX,ptcafe.com
+  - DOMAIN-SUFFIX,ptcafe.club
+  - DOMAIN-SUFFIX,ptchina.org
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,2xfree.org
